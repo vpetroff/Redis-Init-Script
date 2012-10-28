@@ -1,4 +1,4 @@
-N INIT INFO
+### BEGIN INIT INFO
 # Provides:		redis-server
 # Required-Start:	$syslog $remote_fs
 # Required-Stop:	$syslog $remote_fs
